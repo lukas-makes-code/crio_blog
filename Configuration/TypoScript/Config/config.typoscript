@@ -22,7 +22,7 @@ config {
 	intTarget =
 	linkVars = L
 	metaCharset = utf-8
-	no_cache = 1
+	no_cache = 0
 	noScaleUp = 1
 	uniqueLinkVars = 1
 	pageTitleFirst = 1
